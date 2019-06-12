@@ -8,7 +8,7 @@ The satellite data can be found here:
 https://search.earthdata.nasa.gov/search 
 http://www.cloudsat.cira.colostate.edu/order-data 
 
-All codes are licenced under GNU GPL unless otherwise noted.
+All codes are licenced under MIT licence unless otherwise noted.
 
 The scripts in this repository will not be developed any further.
 
